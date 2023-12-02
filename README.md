@@ -1,4 +1,4 @@
-# Project-Exam-2 (SoSpace)
+# Project Exam 2 (SoSpace)
 
 A brand new front end for an existing Social Media company.
 
