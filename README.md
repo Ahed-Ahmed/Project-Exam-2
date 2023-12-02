@@ -1,7 +1,5 @@
 # Project-Exam-2 (SoSpace)
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
-
 A brand new front end for an existing Social Media company.
 
 ## Getting Started
